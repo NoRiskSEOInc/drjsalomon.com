@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*----*****---- << Color >> ----*****----*/
+
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, th a:hover, td a:hover, a, .dt-sc-ico-content.type1 h5 a, .dt-sc-ico-content.type1 .icon span, .dt-sc-ico-content.type2 h5 a, .dt-sc-ico-content.type2 .icon span, .dt-sc-ico-content.type4 h5 a, .dt-sc-ico-content.type4 .icon span, .dt-sc-ico-content.type5 .icon span, .dt-sc-ico-content.type7 .icon span, h5.dt-sc-toggle.active a, h5.dt-sc-toggle-accordion.active a, .dt-sc-infographic-bar .fa, .dt-sc-numbered-list-type2 li, ul.side-nav > li > a:hover, ul.side-nav > li > ul > li > a:hover, ul.side-nav > li.current_page_item > a, ul.side-nav li > ul > li.current_page_item > a, ul.side-nav > li.current_page_item > a:hover, ul.side-nav > li > ul > li.current_page_item > a:hover, ul.side-nav > li > ul > li > ul > li.current_page_item > a:hover, .entry-details .entry-metadata, #secondary .widget ul li a:hover, #secondary .widget .tweet_list li a:hover, .portfolio-single .tags, #secondary .widget.widget_recent_entries ul li:hover:before, #secondary .widget.widget_recent_comments ul li:hover:before, ul.commentlist li .author-name a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, ul.products li .product-details-hover h3 a:hover, .pagination ul li.active-page, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget h3.widgettitle a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget ul li a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.widget_recent_entries .recent-posts-widget .post-meta p > a:hover, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget.tweetbox ul.tweet_list li a:hover, .tp-caption.custom_title, .tp-caption.custom_skin_text, .tp-caption.custom_small_icon, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details .dt-sc-button, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details .dt-sc-button, .entry-details .entry-metadata a:hover, .entry-details .entry-metadata span, .dt-sc-contact-info a:hover, .dt-sc-appointment .dt-sc-contact-info a:hover, .dt-sc-specials-list li a:hover, .widget.widget_recent_entries .recent-posts-widget .post-meta p span, #footer a:hover, #footer h3 a:hover, #footer h4 a:hover, #footer h5 a:hover, #footer h6 a:hover, #footer .widget ul li a:hover, #footer .widget ul li h3 a:hover, #footer .widget ul li h4 a:hover, #footer .widget ul li h5 a:hover, #footer .widget ul li h6 a:hover,  #footer .dt-sc-contact-info a,  #footer .promo-details a, #footer .widget.widget_recent_entries .recent-posts-widget h4 a:hover, #footer .widget.widget_recent_entries .recent-posts-widget .post-meta p a:hover, #footer .widget.tweetbox .tweet-text a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-title h4 a:hover, .fullwidth-section.light-bg .blog-entry .entry-details .entry-metadata a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle a:hover, .fullwidth-section.dark-bg h5.dt-sc-toggle-accordion a:hover, .floral-head, ul.dt-sc-fancy-list.type2 li .fa, .dt-sc-ico-content.type6 .icon .fa, .fullwidth-section.dark-bg .dt-sc-box-title h3 span { color: #536878; }
+
+.breadcrumb a, ul.dt-sc-tabs-vertical-frame li a.current, ul.dt-sc-tabs-vertical-frame li.current a { color: #3e4e5a; }
+
+
+/*----*****---- << Background Color >> ----*****----*/
+
+#bbar-wrapper, .dt-sc-ico-content.type1:hover .icon, .dt-sc-ico-content.type2:hover .icon, .dt-sc-ico-content.type2:hover .link, .dt-sc-ico-content.type3 .icon span, .dt-sc-ico-content.type4:hover .icon, .dt-sc-ico-content.type4:hover .dt-sc-button:after, .dt-sc-ico-content.type4:hover .dt-sc-button, .dt-sc-ico-content.type7:hover .icon, .dt-sc-numbered-list li span, .dt-sc-callout-box.type3, .dt-sc-appointment li i, .dt-sc-sorting-container a:hover, .dt-sc-sorting-container a.active-sort, .carousel-arrows a:hover, .dt-sc-tb-header .dt-sc-price, .dt-sc-appointment .dt-sc-contact-info i, ul.side-nav li a:hover:before, ul.side-nav > li.current_page_item > a:before, ul.side-nav > li > ul > li.current_page_item > a:before, ul.side-nav > li > ul > li > ul > li.current_page_item > a:before, .widget_categories ul li a span, .widget.widget_archive ul li a span, .tagcloud a, ul.commentlist li .author-name span, .featured-post span, .page-link span, .page-link a:hover, .portfolio .image-overlay a span, ul.commentlist li .reply a, .entry-meta .comments, .dt-sc-titled-box h6.dt-sc-titled-box-title, .pagination ul li a, .pagination .next-post a, .pagination .prev-post a, .menu-sidebar li.current_page_item a, .menu-sidebar li:hover a, #footer .dt-sc-social-icons li:hover:after, .dt-sc-pricing-table.type2 .dt-sc-price-wrapper, #header.header4 #main-menu > ul.menu li:after, .dt-sc-box-title h3 span, .menu-list:hover .menu-thumb .rounded, .dt-sc-catalog-menu:hover .rounded, ul.time-table > li ul.time-slots > li a.selected { background: #536878; }
+
+.dt-sc-gift-cards .dt-sc-gift.product:hover .price, .dt-sc-gift-cards .dt-sc-gift.product.selected .price, .dt-sc-gift-cards .dt-sc-gift.product:hover .product-details, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-details, .skin-bg.parallax-section .fullwidth-bg { background: rgba(83, 104, 120, 0.9); }
+
+.dt-sc-gift-cards .dt-sc-gift.product .product-thumb a .img-overlay  { background: rgba(83, 104, 120, 0.4); }
+
+.dt-sc-callout-box.type5, .dt-sc-team:hover, ul.time-table > li:after { background: #e1effa; }
+
+.floral-head:before, .dt-sc-counter h5 span:after, .dt-sc-counter h5 span:before { background-image: url(images/floral-head-bg.png); }
+
+.dt-sc-team .image:after { background-image: url(images/bg-team-image.png); }
+
+.footer-logo { background-image: url(images/footer-top-logo.png) }
+
+#header.header1, #header.header5, input[type="submit"], button, input[type="button"], h5.dt-sc-toggle:before, h5.dt-sc-toggle-accordion:before, .dt-sc-button, .dt-sc-infographic-bar .dt-sc-bar, .bx-controls a.bx-prev, .bx-controls a.bx-next, .dt-sc-counter h5 span, .copyright, .skin-bg { background-color: #536878; }
+
+.dt-sc-button:after, button:hover, input[type="submit"]:hover, input[type="button"]:hover, .entry-details .read-more:after, .menu-title .price:hover, .dt-sc-catalog-menu a.dt-sc-button:hover, #newsletter .dt-sc-button:after, .tagcloud a:after, .pagination ul li a:after, .pagination ul li.active-page:after, .pagination .next-post a:after, .pagination .prev-post a:after, .bx-controls a:hover, .widget_categories ul li a:hover span, .widget_archive ul li a:hover span, #footer .widget_categories ul li a:hover span, #footer .widget_archive ul li a:hover span, .menu-item-widget-area-container .widget .selection-box:after, .menu-item-widget-area-container .widget.widget_archive .selection-box:after, .menu-item-widget-area-container .widget.widget_categories .selection-box:after { background-color: #3e4e5a; }
+
+.megamenu-child-container, #main-menu ul li.menu-item-simple-parent ul, .dt-sc-callout-box.type1 h4 span.highlight, .dt-sc-numbered-list li { background: #3d4e5c; }
+
+
+/*----*****---- << Border Color >> ----*****----*/
+
+input[type="submit"], button, input[type="button"], #main-menu > ul.menu.with-hover-style > li > a:hover, #main-menu > ul.menu.with-hover-style > li:hover > a, #main-menu > ul.menu.with-hover-style > li.current_page_item > a, #main-menu > ul.menu.with-hover-style > li.current_page_ancestor > a, #main-menu > ul.menu.with-hover-style > li.current-menu-item > a, #main-menu > ul.menu.with-hover-style > li.current-menu-ancestor > a, #main-menu ul.menu.with-hover-style li.menu-item-simple-parent ul li a:before, #main-menu ul.menu.with-hover-style .megamenu-child-container ul.sub-menu > li > ul li a:before, #main-menu ul.menu.with-hover-style li.menu-item-simple-parent ul li a:after, #main-menu ul.menu.with-hover-style .megamenu-child-container ul.sub-menu > li > ul li a:after, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget_nav_menu ul li a:before, #main-menu ul.menu.with-hover-style li .menu-item-widget-area-container .widget_nav_menu ul li a:after, .megamenu-child-container > ul.sub-menu > li > a, .megamenu-child-container > ul.sub-menu > li > .nolink-menu, .dt-sc-button, .dt-sc-callout-box.type4, .dt-sc-callout-box.type5, .pagination ul li a, .pagination .next-post a, .pagination .prev-post a, .pagination ul li.active-page, .dt-sc-pr-tb-col.selected, .dt-sc-pr-tb-col.selected .dt-sc-buy-now .dt-sc-button, .dt-sc-pricing-table.type2 .dt-sc-pr-tb-col.selected, .dt-sc-pricing-table.type2 .dt-sc-pr-tb-col:hover, .megamenu-child-container, #main-menu ul li.menu-item-simple-parent ul, #main-menu ul li.menu-item-simple-parent ul li ul, ul.commentlist li .comment-author img, #slider, .dt-sc-toggle-frame h5.dt-sc-toggle a, .dt-sc-toggle-frame h5.dt-sc-toggle-accordion a, .dt-sc-pullquote5, .dt-sc-pullquote6, .is-sticky #header, .dt-sc-ico-content.type6:hover .icon span, .dt-sc-ico-content.type7 .icon, .entry-meta .comments, blockquote, blockquote.type2, .dt-sc-testimonial .author img, .menu-list:hover .menu-thumb .rounded, .dt-sc-catalog-menu:hover .rounded, .tagcloud a, #footer .dt-sc-social-icons li:hover img, .floral-head, .dt-sc-box-title, .dt-sc-ico-content.type6 .icon .fa, .dt-sc-team .image img { border-color: #536878; }
+
+.dt-sc-gift-cards .dt-sc-gift.product:hover .product-thumb, .dt-sc-gift-cards .dt-sc-gift.product.selected .product-thumb { border-color: rgba(83, 104, 120, 0.9); }
+
+ul.time-table > li.selected ul.time-slots > li a { border-color: rgba(83, 104, 120, 0.4); }
+
+.dt-sc-ico-content.type3:hover .icon span, .dt-sc-pricing-table.type2 .dt-sc-price-wrapper, .dt-sc-counter { border-color: #688296; }
+
+.menu-sidebar li.current_page_item a, .menu-sidebar li:hover a, .portfolio:hover, .dt-sc-sorting-container a:hover, .dt-sc-sorting-container a.active-sort { border-color: #3d4e5c; }
+
+.dt-sc-callout-box.type5:after { border-left-color: #e1effa; }
+
+#main-menu ul li.menu-item-simple-parent:last-child ul li ul, .dt-sc-testimonial blockquote:before { border-right-color: #536878; }
+
+.dt-sc-testimonial.type2 blockquote:before { border-bottom-color: #536878; }
+
+.dt-sc-testimonial blockquote, ul.dt-sc-tabs-frame li.current, blockquote.type2:before, .dt-sc-pricing-table.type2 .dt-sc-pr-tb-col:hover .dt-sc-tb-body, .dt-sc-pricing-table.type2 .dt-sc-pr-tb-col.selected .dt-sc-tb-body { border-top-color: #536878; }
+
+ul.dt-sc-tabs-vertical-frame li a.current { border-left-color: #536878; }
+
+input[type="submit"]:hover, input[type="button"]:hover, button:hover, #newsletter .dt-sc-button:hover, .tagcloud a:hover { border-color: #3e4e5a; }
+
+
+/*----*****---- << Woo Styles >> ----*****----*/
+ 
+ul.products li:hover .product-details .add_to_cart_button, ul.products li:hover .product-details .button, ul.products li:hover .product-details .yith-wcwl-add-to-wishlist a, .product .summary .add_to_wishlist, #reviews a.button, .woocommerce-message .button, .woocommerce-error .button, .woocommerce-info .button, .woocommerce table .button, .product.woocommerce .button, ul.products li .product-thumb .onsale, .single-product .product > .onsale, .product-categories li span, .woocommerce-message:before, .woocommerce-info:before { background-color: #536878; }
+
+ul.products li .product-details .add_to_cart_button { background-image: url(images/cart-ico.png);  }
+ul.products li .product-details .yith-wcwl-add-to-wishlist a { background-image: url(images/addtowishlist.png);  }
+ul.products li .product-details .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistexistsbrowse a, ul.products li .product-details .yith-wcwl-wishlistaddedbrowse a { background-image: url(images/addedtowishlist.png); }
+
+.product .summary .add_to_wishlist:hover, #reviews a.button:hover, .woocommerce-message .button:hover, .woocommerce-error .button:hover, .woocommerce-info .button:hover, .woocommerce table .button:hover, .product.woocommerce .button:hover, .product .summary .add_to_wishlist:hover:before { background-color: #3e4e5a; }
+
+.product .woocommerce-main-image img, ul.products li .product-details .add_to_cart_button, ul.products li .product-details .button, ul.products li .product-details .yith-wcwl-add-to-wishlist a, .product .summary .add_to_wishlist, #reviews a.button, .woocommerce-message .button, .woocommerce-error .button, .woocommerce-info .button, .woocommerce table .button, .product.woocommerce .button, .woocommerce ul.products li:hover .product-container, .woocommerce-page ul.products li:hover .product-container { border-color: #536878; }
+
+.woocommerce-message, .woocommerce-info, .woocommerce-tabs ul.tabs li.active a { border-top-color: #536878; }
+
+.widget.woocommerce .widget_shopping_cart_content .buttons a:hover, .widget.woocommerce .widget_shopping_cart_content .buttons .button:hover { color: #536878; }
+
+
+/*----*****---- << For Safari issue >> ----*****----*/
+
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+
+	/* Safari only override */
+	
+	::i-block-chrome, .dt-sc-testimonial .author img, ::i-block-chrome, ul.commentlist li .comment-author img {
+		
+		border: none; box-shadow: 0 0 0 5px #536878; -webkit-box-shadow: 0 0 0 5px #536878; -moz-box-shadow: 0 0 0 5px #536878; -ms-box-shadow: 0 0 0 5px #536878; -o-box-shadow: 0 0 0 5px #536878; 
+	  
+	}
+	
+	::i-block-chrome, .dt-sc-team .image img {
+		
+		border: none; box-shadow: 0 0 0 4px #536878; -webkit-box-shadow: 0 0 0 4px #536878; -moz-box-shadow: 0 0 0 4px #536878; -ms-box-shadow: 0 0 0 4px #536878; -o-box-shadow: 0 0 0 4px #536878; 
+	  
+	}	
+}
