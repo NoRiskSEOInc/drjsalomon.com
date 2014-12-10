@@ -1,0 +1,11 @@
+#customize-control-dt_skin {
+	padding-bottom:15px;
+	border-bottom:1px dashed #dddddd;
+}
+#accordion-section-dt_customizer_settings select { 
+	padding:5px; 
+	width:100%;
+	height:30px; 
+	border:1px solid #dddddd; 
+	background:#f3f3f3;
+}
