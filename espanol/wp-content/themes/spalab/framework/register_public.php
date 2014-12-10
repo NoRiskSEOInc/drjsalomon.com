@@ -1014,7 +1014,7 @@ class dttheme_breadcrumb {
 
 		if(is_tag()){ return __("Archive for Tag: ",'dt_themes').single_tag_title('',FALSE); }
 
-		if(is_404()){ return __("LOST",'dt_themes'); }
+		if(is_404()){ return __("404",'dt_themes'); }
 
 		if(is_search()){ return __("Search",'dt_themes'); }	
 
